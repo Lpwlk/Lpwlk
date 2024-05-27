@@ -43,7 +43,7 @@ I recently graduated as an ***Electronics and Embedded Systems*** engineer (2024
 > <a href="mailto:loic.pawlicki@gmail.com"> ![Gmail](https://img.shields.io/badge/gmail-ffffff?style=for-the-badge&logo=gmail)</a>
 
 <p align="center">
-    <img src="https://github.com/Lpwlk/Lpwlk/blob/main/assets/pulsing-bar.gif">
+    <img src="https://github.com/Lpwlk/Lpwlk/blob/main/assets/pulsing-bar.gif?raw=true">
 </p>
 
 <!-- Ref - GitHub repo for profile generated cards : https://github.com/vn7n24fzkq/github-profile-summary-cards -->
@@ -63,7 +63,7 @@ I recently graduated as an ***Electronics and Embedded Systems*** engineer (2024
 
 </div>
 
-<!-- Ref - Website for repo-stats generators : https://repobeats.axiom.co/ (Commented because useless analytics in profile repo)-->
+<!-- Ref - Website for repo-stats generators : https://repobeats.axiom.co/ (Commented out cuz useless in profile repo)-->
 <!-- 
 <div align = "center">
 
@@ -94,7 +94,7 @@ I recently graduated as an ***Electronics and Embedded Systems*** engineer (2024
   - HTML & CSS (Js basics)
 
   <div align="center">
-    <kbd><img width="320" height="240" src="https://github.com/Lpwlk/Lpwlk/blob/main/assets/perlin-gif.gif"></kbd>
+    <kbd><img width="320" height="240" src="https://github.com/Lpwlk/Lpwlk/blob/main/assets/perlin-gif.gif?raw=true"></kbd>
   </div>
 
 </details> <!-- Tech skills END -->
@@ -133,7 +133,7 @@ I recently graduated as an ***Electronics and Embedded Systems*** engineer (2024
 </details> <!-- Wrap END -->
 
 <p align="center">
-    <img src="https://github.com/Lpwlk/Lpwlk/blob/main/assets/pulsing-bar.gif">
+    <img src="https://github.com/Lpwlk/Lpwlk/blob/main/assets/pulsing-bar.gif?raw=true">
 </p>
 
 <div align="center">
