@@ -17,17 +17,18 @@ I recently graduated as an ***Electronics and Embedded Systems*** engineer (2024
     style = "for-the-badge" or "logo"
  -->
 > ![VSCodeBadge](https://img.shields.io/badge/-VSCode-2ea44f?style=for-the-badge&logo=visual-studio-code&logoColor=007acc)
+> ![PyCharmBadge](https://img.shields.io/badge/PyCharm-2ea44f?style=for-the-badge&logo=pycharm)
 > ![stmBadge](https://img.shields.io/badge/stmCubeIDE-2ea44f?style=for-the-badge&logo=stmicroelectronics&logoColor=00599c)
 > ![AlitumBadge](https://img.shields.io/badge/Altium-2ea44f?style=for-the-badge&logo=altiumdesigner&logoColor=e8dcbd)
 > ![KiCADBadge](https://img.shields.io/badge/KiCAD-2ea44f?style=for-the-badge&logo=kicad&logoColor=314cb0)
 > ![LabViewBadge](https://img.shields.io/badge/LabView-2ea44f?style=for-the-badge&logo=labview&logoColor=ffdd55)
-<!-- > ![PyCharm](https://img.shields.io/badge/PyCharm-2ea44f?style=for-the-badge&logo=pycharm) -->
+
 > ![GitBadge](https://img.shields.io/badge/git-2ea44f?style=for-the-badge&logo=git&logoColor=ee6644)
 > ![GitHubBadge](https://img.shields.io/badge/github-2ea44f?style=for-the-badge&logo=github&logoColor=ffffff)
 > ![Windows10Badge](https://img.shields.io/badge/windows10-2ea44f?style=for-the-badge&logo=windows10&logoColor=0078d4)
 > ![MacOSBadge](https://img.shields.io/badge/macos-2ea44f?style=for-the-badge&logo=apple&logoColor=ffffff)
 > ![RaspberryBadge](https://img.shields.io/badge/raspberry-2ea44f?style=for-the-badge&logo=raspberrypi&logoColor=d24866)
-> ![Z/BashBadge](https://img.shields.io/badge/bash-2ea44f?style=for-the-badge&logo=gnubash&logoColor=ffffff)
+> ![BashBadge](https://img.shields.io/badge/bash-2ea44f?style=for-the-badge&logo=gnubash&logoColor=ffffff)
 > ![CMakeBadge](https://img.shields.io/badge/cMake-2ea44f?style=for-the-badge&logo=cmake&logoColor=dd5544)
 
 > ![PythonBadge](https://img.shields.io/badge/Python-2ea44f?style=for-the-badge&logo=python&logoColor=4060dd)
@@ -72,7 +73,7 @@ I recently graduated as an ***Electronics and Embedded Systems*** engineer (2024
 </div> 
 -->
 
-<details> <!-- Wrap HEAD -->
+<details open="true"> <!-- Wrap HEAD -->
 
 <summary>
 
@@ -80,7 +81,7 @@ I recently graduated as an ***Electronics and Embedded Systems*** engineer (2024
 
 </summary>
 
-<details> <!-- Tech skills HEAD -->
+<details open="true"> <!-- Tech skills HEAD -->
 
   <summary>
       
@@ -88,10 +89,10 @@ I recently graduated as an ***Electronics and Embedded Systems*** engineer (2024
   
   </summary>
   
-  - Low-level C and TI asm for embedded systems and DSP programming
-  - Python : core libs, Numpy, Scipy, Pandas, Graphical rendering libs (Plotly, Matplotlib, Tkinter), networking libs and ML basics (TensorFlow/Numpy)
-  - Networking : WiFi, Bluetooth, Zigbee and OSI stack basics in general
-  - HTML & CSS (Js basics)
+  - Low-level embedded C (STM32/TI & RASPBERRY > (ARM M4-M7 & RP2040) and TI asm for embedded systems and DSP programming
+  - Python : core libs, Numpy, Scipy, Pandas, Graphical libs (Mpl, Tk), networking libs, ML basics (TsFlow)
+  - Networking : TCP/IP socket programming/Bluetooth & Zigbee protocols/CAN & Modbus/OSI stack basic understanding.
+  - HTML & CSS (JS basics)
 
   <div align="center">
     <kbd><img width="320" height="240" src="https://github.com/Lpwlk/Lpwlk/blob/main/assets/perlin-gif.gif?raw=true"></kbd>
@@ -99,7 +100,7 @@ I recently graduated as an ***Electronics and Embedded Systems*** engineer (2024
 
 </details> <!-- Tech skills END -->
 
-<details> <!-- Learnings HEAD -->
+<details open="true"> <!-- Learnings HEAD -->
 
   <summary>
       
@@ -107,10 +108,11 @@ I recently graduated as an ***Electronics and Embedded Systems*** engineer (2024
     
   </summary>
   
-  - Advanced embedded C 
-  - ARM v7-M assembly
-  - CS history
-  
+  - **Bare metal embedded C**: low-power development/RTOS intergation/IoT networking techniques (bare metal = from scratch @ hardware-level)
+  - **Advanced PCB design techniques**: best practices/RF & high speed design/power architectures/...
+  - **CS  history**: pioneers/breakthroughs/modern challenges/markets evolution/...
+  - **ARM v7-M assembly**: asm algorithmic basics for better understanding of ARM cortex architecture
+
 </details> <!-- Learnings END -->
 
 <details> <!-- Language HEAD -->
