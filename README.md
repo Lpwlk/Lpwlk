@@ -74,7 +74,7 @@ I recently graduated as an ***Electronics and Embedded Systems*** engineer (2024
 </div> 
 -->
 
-<details open="true"> <!-- Wrap HEAD -->
+<details open="false"> <!-- Wrap HEAD -->
 
 <summary>
 
@@ -101,7 +101,7 @@ I recently graduated as an ***Electronics and Embedded Systems*** engineer (2024
 
 </details> <!-- Tech skills END -->
 
-<details open="true"> <!-- Learnings HEAD -->
+<details open="false"> <!-- Learnings HEAD -->
 
   <summary>
       
@@ -113,10 +113,10 @@ I recently graduated as an ***Electronics and Embedded Systems*** engineer (2024
   - **Advanced PCB design techniques**: best practices/RF & high speed design/power architectures/...
   - **CS  history**: pioneers/breakthroughs/modern challenges/markets evolution/...
   - **ARM v7-M assembly**: asm algorithmic basics for better understanding of ARM cortex architecture
-
+  - **FPV stack design**: FPV stack architecture, lastest protocols & cost reductions
 </details> <!-- Learnings END -->
 
-<details> <!-- Language HEAD -->
+<details open="false"> <!-- Language HEAD -->
 
   <summary>
       
