@@ -74,7 +74,7 @@ I recently graduated as an ***Electronics and Embedded Systems*** engineer (2024
 </div> 
 -->
 
-<details open="false"> <!-- Wrap HEAD -->
+<details> <!-- Wrap HEAD -->
 
 <summary>
 
@@ -82,7 +82,7 @@ I recently graduated as an ***Electronics and Embedded Systems*** engineer (2024
 
 </summary>
 
-<details open="true"> <!-- Tech skills HEAD -->
+<details open> <!-- Tech skills HEAD -->
 
   <summary>
       
@@ -101,7 +101,7 @@ I recently graduated as an ***Electronics and Embedded Systems*** engineer (2024
 
 </details> <!-- Tech skills END -->
 
-<details open="false"> <!-- Learnings HEAD -->
+<details open> <!-- Learnings HEAD -->
 
   <summary>
       
@@ -116,7 +116,7 @@ I recently graduated as an ***Electronics and Embedded Systems*** engineer (2024
   - **FPV stack design**: FPV stack architecture, lastest protocols & cost reductions
 </details> <!-- Learnings END -->
 
-<details open="false"> <!-- Language HEAD -->
+<details> <!-- Language HEAD -->
 
   <summary>
       
