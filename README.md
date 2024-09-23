@@ -4,10 +4,10 @@
 
 ### 🌐 About me
 
-I recently graduated as an ***Electronics and Embedded Systems*** engineer (2024) in France. I have become fascinated by computer science in 2019 during an internship at <a href="https://www.esrf.fr/home.html">**ESRF**</a> (Grenoble, France) where I started with **C**, **Python3** and **Bash** scripting. Since then, my interest has gradually focused on low-level programming and hardware **PCB design** for my career as well as some of my personal projects (links to my <a href="https://en.wikipedia.org/wiki/First-person_view_(radio_control)">**FPV**</a> <a href="">**projects**</a> and <a href="">**portfolio**</a>).
+I recently graduated as an ***Electronics and Embedded Systems*** engineer (2024) in France (<a href="https://www.utbm.fr/" target="_blank">**UTBM**</a>). I have become fascinated by computer science in 2019 during an internship at <a href="https://www.esrf.fr/home.html">**ESRF**</a> (Grenoble, France) where I started with **Python3** and **Bash** scripting. Since then, my interest has gradually focused on low-level programming and **hardware design** for my career as well as some of my personal projects (links to my <a href="https://en.wikipedia.org/wiki/First-person_view_(radio_control)">**FPV**</a> <a href="">**projects**</a> and <a href="">**portfolio**</a>).
 
 * 🏔️ Currently based in the french Alps
-* 🖥 Love experimenting, discovering and learning
+* 🖥 Currently developping my own FPV drone stack 
 * 📚 Electronics, Signal Processing and Mathematics enthusiast
 
 ### 🛠 Tech Stack
@@ -23,22 +23,20 @@ I recently graduated as an ***Electronics and Embedded Systems*** engineer (2024
 > ![KiCADBadge](https://img.shields.io/badge/KiCAD-2ea44f?style=for-the-badge&logo=kicad&logoColor=314cb0)
 > ![LabViewBadge](https://img.shields.io/badge/LabView-2ea44f?style=for-the-badge&logo=labview&logoColor=ffdd55)
 
-> ![GitBadge](https://img.shields.io/badge/git-2ea44f?style=for-the-badge&logo=git&logoColor=ee6644)
-> ![GitHubBadge](https://img.shields.io/badge/github-2ea44f?style=for-the-badge&logo=github&logoColor=ffffff)
-> ![Windows10Badge](https://img.shields.io/badge/windows10-2ea44f?style=for-the-badge&logo=windows10&logoColor=0078d4)
-> ![MacOSBadge](https://img.shields.io/badge/macos-2ea44f?style=for-the-badge&logo=apple&logoColor=ffffff)
-> ![RaspberryBadge](https://img.shields.io/badge/raspberry-2ea44f?style=for-the-badge&logo=raspberrypi&logoColor=d24866)
-> ![BashBadge](https://img.shields.io/badge/bash-2ea44f?style=for-the-badge&logo=gnubash&logoColor=ffffff)
-> ![CMakeBadge](https://img.shields.io/badge/cMake-2ea44f?style=for-the-badge&logo=cmake&logoColor=dd5544)
-
-> ![PythonBadge](https://img.shields.io/badge/Python-2ea44f?style=for-the-badge&logo=python&logoColor=4060dd)
 > ![CBadge](https://img.shields.io/badge/c-2ea44f?style=for-the-badge&logo=C&logoColor=0066bb)
 > ![C++Badge](https://img.shields.io/badge/c++-2ea44f?style=for-the-badge&logo=C%2B%2B&logoColor=0066bb)
+> ![CMakeBadge](https://img.shields.io/badge/cMake-2ea44f?style=for-the-badge&logo=cmake&logoColor=dd5544)
+> ![PythonBadge](https://img.shields.io/badge/Python-2ea44f?style=for-the-badge&logo=python&logoColor=4060dd)
 > ![JupyterBadge](https://img.shields.io/badge/jupyter-2ea44f?style=for-the-badge&logo=jupyter)
 > ![NumPyBadge](https://img.shields.io/badge/numpy-2ea44f?style=for-the-badge&logo=numpy&logoColor=4060dd)
 > ![PandasBadge](https://img.shields.io/badge/pandas-2ea44f?style=for-the-badge&logo=pandas&logoColor=150458)
 > ![PlotlyBadge](https://img.shields.io/badge/plotly-2ea44f?style=for-the-badge&logo=plotly&logoColor=3f4f75)
- 
+
+> ![GitBadge](https://img.shields.io/badge/git-2ea44f?style=for-the-badge&logo=git&logoColor=ee6644)
+> ![GitHubBadge](https://img.shields.io/badge/github-2ea44f?style=for-the-badge&logo=github&logoColor=ffffff)
+> ![RaspberryBadge](https://img.shields.io/badge/raspberry-2ea44f?style=for-the-badge&logo=raspberrypi&logoColor=d24866)
+> ![BashBadge](https://img.shields.io/badge/bash-2ea44f?style=for-the-badge&logo=gnubash&logoColor=ffffff)
+
 ### 📫 How to reach me:
 > <a href="https://www.linkedin.com/in/lo%C3%AFc-pawlicki-a7b305233/"> ![Linkedin](https://img.shields.io/badge/Linkedin-0077b5?style=for-the-badge&logo=linkedin)</a>
 > <a href="mailto:loic.pawlicki@gmail.com"> ![Gmail](https://img.shields.io/badge/gmail-ffffff?style=for-the-badge&logo=gmail)</a>
@@ -109,10 +107,9 @@ I recently graduated as an ***Electronics and Embedded Systems*** engineer (2024
     
   </summary>
   
-  - **Bare metal embedded C**: low-power development/RTOS intergation/IoT networking techniques (bare metal = from scratch @ hardware-level)
+  - **Bare metal embedded C**: low-power development/RTOS intergation/IoT networking techniques
   - **Advanced PCB design techniques**: best practices/RF & high speed design/power architectures/...
-  - **CS  history**: pioneers/breakthroughs/modern challenges/markets evolution/...
-  - **ARM v7-M assembly**: asm algorithmic basics for better understanding of ARM cortex architecture
+  - **CS history**: pioneers/breakthroughs/modern challenges/markets evolution/...
   - **FPV stack design**: FPV stack architecture, lastest protocols & cost reductions
 </details> <!-- Learnings END -->
 
