@@ -85,7 +85,7 @@ I recently graduated as an ***Electronics and Embedded Systems*** engineer (2024
   - **FPV stack design**: FPV stack architecture, lastest protocols & cost reductions
 </details> <!-- Learnings END -->
 
-<details> <!-- Language HEAD -->
+<details open> <!-- Language HEAD -->
 
   <summary>
       
