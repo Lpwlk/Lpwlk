@@ -70,25 +70,6 @@ I recently graduated as an ***Electronics and Embedded Systems*** engineer (2024
 
 </summary>
 
-<details open> <!-- Tech skills HEAD -->
-
-  <summary>
-      
-  ##### *Tech skills*
-  
-  </summary>
-  
-  - Low-level embedded C (STM32/TI & RASPBERRY > (ARM M4-M7 & RP2040) and TI asm for embedded systems and DSP programming
-  - Python : core libs, Numpy, Scipy, Pandas, Graphical libs (Mpl, Tk), networking libs, ML basics (TsFlow)
-  - Networking : TCP/IP socket programming/Bluetooth & Zigbee protocols/CAN & Modbus/OSI stack basic understanding.
-  - HTML & CSS (JS basics)
-
-  <div align="center">
-    <kbd><img width="320" height="240" src="https://github.com/Lpwlk/Lpwlk/blob/main/assets/perlin-gif.gif?raw=true"></kbd>
-  </div>
-
-</details> <!-- Tech skills END -->
-
 <details open> <!-- Learnings HEAD -->
 
   <summary>
@@ -97,7 +78,8 @@ I recently graduated as an ***Electronics and Embedded Systems*** engineer (2024
     
   </summary>
   
-  - **Bare metal embedded C**: low-power development/RTOS intergation/IoT networking techniques
+  - **Bare metal embedded C**: low-power development, MCU peripherals configuration
+  - **Embedded RTOS**: FreeRTOS and Embedded Linux architectures, Embedded Linux distros creation, ...
   - **Advanced PCB design techniques**: best practices/RF & high speed design/power architectures/...
   - **CS history**: pioneers/breakthroughs/modern challenges/markets evolution/...
   - **FPV stack design**: FPV stack architecture, lastest protocols & cost reductions
