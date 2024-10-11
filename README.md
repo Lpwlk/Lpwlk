@@ -40,7 +40,6 @@ I recently graduated as an ***Electronics and Embedded Systems*** engineer (2024
 ### 📫 How to reach me:
 > <a href="https://www.linkedin.com/in/lo%C3%AFc-pawlicki-a7b305233/"> ![Linkedin](https://img.shields.io/badge/Linkedin-0077b5?style=for-the-badge&logo=linkedin)</a>
 > <a href="mailto:loic.pawlicki@gmail.com"> ![Gmail](https://img.shields.io/badge/gmail-ffffff?style=for-the-badge&logo=gmail)</a>
-> <a href="https://discordapp.com/users/200935444974796800"> ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)</a>
 
 <p align="center">
     <img src="https://github.com/Lpwlk/Lpwlk/blob/main/assets/pulsing-bar.gif?raw=true">
