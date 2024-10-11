@@ -6,7 +6,7 @@
 
 I recently graduated as an ***Electronics and Embedded Systems*** engineer (2024) in France (<a href="https://www.utbm.fr/" target="_blank">**UTBM**</a>). I have become fascinated by computer science in 2019 during an internship at <a href="https://www.esrf.fr/home.html">**ESRF**</a> (Grenoble, France) where I started with **Python3** and **Bash** scripting. Since then, my interest has gradually focused on low-level programming and **hardware design** for my career as well as some of my personal projects (links to my <a href="https://en.wikipedia.org/wiki/First-person_view_(radio_control)">**FPV**</a> <a href="">**projects**</a> and <a href="">**portfolio**</a>).
 
-* 🏔️ Currently based in the french Alps
+* 🏔️ Living in the french Alps
 * 🖥 Currently developping my own FPV drone stack 
 * 📚 Electronics, Signal Processing and Mathematics enthusiast
 
@@ -63,15 +63,6 @@ I recently graduated as an ***Electronics and Embedded Systems*** engineer (2024
 
 </div>
 
-<!-- Ref - Website for repo-stats generators : https://repobeats.axiom.co/ (Commented out cuz useless in profile repo)-->
-<!-- 
-<div align = "center">
-
-![RepoBeats generator](https://repobeats.axiom.co/api/embed/a9dcf7a67c680871d7836e0dc87e7950c946c8b4.svg "Repobeats analytics image")
-
-</div> 
--->
-
 <details> <!-- Wrap HEAD -->
 
 <summary>
@@ -123,7 +114,7 @@ I recently graduated as an ***Electronics and Embedded Systems*** engineer (2024
 
 | Language      | Proficiency                                                                                    |
 | ------------- | ---------------------------------------------------------------------------------------------- |
-| French        | Native language                                                                                |
+| French        | Native                                                                                         |
 | English       | C1+ ([Linguaskill certified](https://www.cambridgeenglish.org/fr/exams-and-tests/linguaskill/))|
 | Spanish       | B1 ([No certificate])                                                                          |
 | Korean        | A1 ([No certificate])                                                                          |
