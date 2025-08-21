@@ -1,6 +1,8 @@
 <samp>
     
-# Welcome to my GitHub profile !  💻
+<!-- # Welcome to my GitHub profile !  💻 -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Monaspace+Neon+Medium&weight=500&size=26&duration=2000&pause=1000&color=5FED83&vCenter=true&repeat=false&width=600&lines=Welcome+to+my+GitHub+profile+!++%F0%9F%92%BB)](https://git.io/typing-svg)
+---
 
 ### 🌐 About me
 
