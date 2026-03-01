@@ -1,8 +1,6 @@
 <samp>
     
-<!-- # Welcome to my GitHub profile !  💻 -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Monaspace+Neon+Medium&weight=500&size=26&duration=2000&pause=1000&color=5FED83&vCenter=true&repeat=false&width=600&lines=Welcome+to+my+GitHub+profile+!++%F0%9F%92%BB)](https://git.io/typing-svg)
----
+# Welcome to my GitHub profile !  💻
 
 <!-- ### 🌐 About me
 
@@ -39,14 +37,6 @@ I recently graduated as an ***Electronics and Embedded Systems*** engineer (2024
 > ![RaspberryBadge](https://img.shields.io/badge/raspberry-2ea44f?style=for-the-badge&logo=raspberrypi&logoColor=d24866)
 > ![BashBadge](https://img.shields.io/badge/bash-2ea44f?style=for-the-badge&logo=gnubash&logoColor=ffffff) -->
 
-### 📫 How to reach me:
-> <a href="https://www.linkedin.com/in/lo%C3%AFc-pawlicki-a7b305233/"> ![Linkedin](https://img.shields.io/badge/Linkedin-0077b5?style=for-the-badge&logo=linkedin)</a>
-> <a href="mailto:loic.pawlicki@gmail.com"> ![Gmail](https://img.shields.io/badge/gmail-ffffff?style=for-the-badge&logo=gmail)</a>
-
-<p align="center">
-    <img src="https://github.com/Lpwlk/Lpwlk/blob/main/assets/pulsing-bar.gif?raw=true">
-</p>
-
 <!-- Ref - GitHub repo for profile generated cards : https://github.com/vn7n24fzkq/github-profile-summary-cards -->
 <div align = "center">
     
@@ -56,60 +46,12 @@ I recently graduated as an ***Electronics and Embedded Systems*** engineer (2024
 &nbsp;
 [![ProductiveTimeCard](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Lpwlk&theme=github_dark&utcOffset=+1.5)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
-<!--
+
 [![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Lpwlk&theme=github_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 &nbsp;
 [![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Lpwlk&theme=github_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
--->
 
 </div>
-
-<details> <!-- Wrap HEAD -->
-
-<summary>
-
-#### *More details here ...*
-
-</summary>
-
-<details open> <!-- Learnings HEAD -->
-
-  <summary>
-      
-  ##### *Currently learning*
-    
-  </summary>
-  
-  - **Bare metal embedded C**: low-power development, MCU peripherals configuration
-  - **Embedded RTOS**: FreeRTOS and Embedded Linux architectures, Embedded Linux distros creation, ...
-  - **Advanced PCB design techniques**: best practices/RF & high speed design/power architectures/...
-  - **CS history**: pioneers/breakthroughs/modern challenges/markets evolution/...
-  - **FPV stack design**: FPV stack architecture, lastest protocols & cost reductions
-</details> <!-- Learnings END -->
-
-<details open> <!-- Language HEAD -->
-
-  <summary>
-      
-  ##### *Languages*
-    
-  </summary>
-
-| Language      | Proficiency                                                                                    |
-| ------------- | ---------------------------------------------------------------------------------------------- |
-| French        | Native                                                                                         |
-| English       | C1+ ([Linguaskill certified](https://www.cambridgeenglish.org/fr/exams-and-tests/linguaskill/))|
-| Spanish       | B1 ([No certificate])                                                                          |
-| Korean        | A1 ([No certificate])                                                                          |
-
-</details> <!-- Language END -->
-
-</details> <!-- Wrap END -->
-
-<p align="center">
-    <img src="https://github.com/Lpwlk/Lpwlk/blob/main/assets/pulsing-bar.gif?raw=true">
-</p>
-
 <div align="center">
  ↓ Check out my repositories ↓ 
 </div>
