@@ -46,11 +46,6 @@ I recently graduated as an ***Electronics and Embedded Systems*** engineer (2024
 &nbsp;
 [![ProductiveTimeCard](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Lpwlk&theme=github_dark&utcOffset=+1.5)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
-
-[![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Lpwlk&theme=github_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-&nbsp;
-[![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Lpwlk&theme=github_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-
 </div>
 <div align="center">
  ↓ Check out my repositories ↓ 
