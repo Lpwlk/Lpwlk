@@ -4,6 +4,13 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Monaspace+Neon+Medium&weight=500&size=26&duration=2000&pause=1000&color=5FED83&vCenter=true&repeat=false&width=600&lines=Welcome+to+my+GitHub+profile+!++%F0%9F%92%BB)](https://git.io/typing-svg)
 ---
 
+### 🌐 About me
+
+I recently graduated as an ***Electronics and Embedded Systems*** engineer (2024) in France (<a href="https://www.utbm.fr/" target="_blank">**UTBM**</a>). I have become fascinated by computer science in 2019 during an internship at <a href="https://www.esrf.fr/home.html">**ESRF**</a> (Grenoble, France) where I started with **Python3** and **Bash** scripting. Since then, my interest has gradually focused on low-level programming and **hardware design** for my career as well as some of my personal projects (links to my <a href="https://en.wikipedia.org/wiki/First-person_view_(radio_control)">**FPV**</a> <a href="">**projects**</a> and <a href="">**portfolio**</a>).
+
+* 🏔️ Living in the french Alps
+* 🖥 Currently developping my own FPV drone stack 
+* 📚 Electronics, Signal Processing and Mathematics enthusiast
 
 ### 🛠 Tech Stack
 <!-- 
