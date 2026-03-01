@@ -4,21 +4,21 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Monaspace+Neon+Medium&weight=500&size=26&duration=2000&pause=1000&color=5FED83&vCenter=true&repeat=false&width=600&lines=Welcome+to+my+GitHub+profile+!++%F0%9F%92%BB)](https://git.io/typing-svg)
 ---
 
-### 🌐 About me
+<!-- ### 🌐 About me
 
 I recently graduated as an ***Electronics and Embedded Systems*** engineer (2024) in France (<a href="https://www.utbm.fr/" target="_blank">**UTBM**</a>). I have become fascinated by computer science in 2019 during an internship at <a href="https://www.esrf.fr/home.html">**ESRF**</a> (Grenoble, France) where I started with **Python3** and **Bash** scripting. Since then, my interest has gradually focused on low-level programming and **hardware design** for my career as well as some of my personal projects (links to my <a href="https://en.wikipedia.org/wiki/First-person_view_(radio_control)">**FPV**</a> <a href="">**projects**</a> and <a href="">**portfolio**</a>).
 
 * 🏔️ Living in the french Alps
 * 🖥 Currently developping my own FPV drone stack 
-* 📚 Electronics, Signal Processing and Mathematics enthusiast
+* 📚 Electronics, Signal Processing and Mathematics enthusiast -->
 
-### 🛠 Tech Stack
+<!-- ### 🛠 Tech Stack
 <!-- 
     Ref - Badges generation : https://shields.io/docs/static-badges and https://simpleicons.org/
     color : hex 2ea44f (github default green)
     style = "for-the-badge" or "logo"
  -->
-> ![VSCodeBadge](https://img.shields.io/badge/-VSCode-2ea44f?style=for-the-badge&logo=visual-studio-code&logoColor=007acc)
+<!-- > ![VSCodeBadge](https://img.shields.io/badge/-VSCode-2ea44f?style=for-the-badge&logo=visual-studio-code&logoColor=007acc)
 > ![PyCharmBadge](https://img.shields.io/badge/PyCharm-2ea44f?style=for-the-badge&logo=pycharm)
 > ![stmBadge](https://img.shields.io/badge/stmCubeIDE-2ea44f?style=for-the-badge&logo=stmicroelectronics&logoColor=00599c)
 > ![AlitumBadge](https://img.shields.io/badge/Altium-2ea44f?style=for-the-badge&logo=altiumdesigner&logoColor=e8dcbd)
@@ -37,7 +37,7 @@ I recently graduated as an ***Electronics and Embedded Systems*** engineer (2024
 > ![GitBadge](https://img.shields.io/badge/git-2ea44f?style=for-the-badge&logo=git&logoColor=ee6644)
 > ![GitHubBadge](https://img.shields.io/badge/github-2ea44f?style=for-the-badge&logo=github&logoColor=ffffff)
 > ![RaspberryBadge](https://img.shields.io/badge/raspberry-2ea44f?style=for-the-badge&logo=raspberrypi&logoColor=d24866)
-> ![BashBadge](https://img.shields.io/badge/bash-2ea44f?style=for-the-badge&logo=gnubash&logoColor=ffffff)
+> ![BashBadge](https://img.shields.io/badge/bash-2ea44f?style=for-the-badge&logo=gnubash&logoColor=ffffff) -->
 
 ### 📫 How to reach me:
 > <a href="https://www.linkedin.com/in/lo%C3%AFc-pawlicki-a7b305233/"> ![Linkedin](https://img.shields.io/badge/Linkedin-0077b5?style=for-the-badge&logo=linkedin)</a>
