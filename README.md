@@ -1,6 +1,6 @@
 <samp>
     
-# Welcome to my GitHub profile !  💻
+# Welcome to my GitHub profile
 
 <!-- ### 🌐 About me
 
@@ -40,7 +40,7 @@ I recently graduated as an ***Electronics and Embedded Systems*** engineer (2024
 <!-- Ref - GitHub repo for profile generated cards : https://github.com/vn7n24fzkq/github-profile-summary-cards -->
 <div align = "center">
     
-[![ProfileDetailCard](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Lpwlk&theme=github_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+<!-- [![ProfileDetailCard](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Lpwlk&theme=github_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 [![StatsCard](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Lpwlk&theme=github_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 &nbsp;
@@ -52,3 +52,5 @@ I recently graduated as an ***Electronics and Embedded Systems*** engineer (2024
 </div>
 
 </samp>
+
+-->
